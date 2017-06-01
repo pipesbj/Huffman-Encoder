@@ -1,0 +1,75 @@
+Total Characters used: 26783
+bits needed with fixed bit size(ascii):   214264
+bits needed with variable bit size: 	  121240
+
+**character codes & additional info**
+r (0000) 4 bits * 1206 occurrences: 4824bits
+Q (000100000000) 12 bits * 4 occurrences: 48bits
+" (0001000000010) 13 bits * 2 occurrences: 26bits
+0 (00010000000110) 14 bits * 1 occurrences: 14bits
+8 (00010000000111) 14 bits * 1 occurrences: 14bits
+5 (0001000000100) 13 bits * 2 occurrences: 26bits
+6 (0001000000101) 13 bits * 2 occurrences: 26bits
+4 (000100000011) 12 bits * 4 occurrences: 48bits
+- (0001000001) 10 bits * 19 occurrences: 190bits
+B (000100001) 9 bits * 36 occurrences: 324bits
+k (000100010) 9 bits * 36 occurrences: 324bits
+J (000100011) 9 bits * 38 occurrences: 342bits
+H (000100100) 9 bits * 38 occurrences: 342bits
+D (000100101) 9 bits * 39 occurrences: 351bits
+A (00010011) 8 bits * 79 occurrences: 632bits
+b (000101) 6 bits * 331 occurrences: 1986bits
+d (00011) 5 bits * 694 occurrences: 3470bits
+s (0010) 4 bits * 1372 occurrences: 5488bits
+i (0011) 4 bits * 1372 occurrences: 5488bits
+e (010) 3 bits * 2927 occurrences: 8781bits
+C (0110000) 7 bits * 167 occurrences: 1169bits
+: (01100010000) 11 bits * 10 occurrences: 110bits
+( (011000100010) 12 bits * 5 occurrences: 60bits
+K (0110001000110) 13 bits * 2 occurrences: 26bits
+9 (01100010001110) 14 bits * 1 occurrences: 14bits
+7 (01100010001111) 14 bits * 2 occurrences: 28bits
+) (011000100100) 12 bits * 5 occurrences: 60bits
+2 (011000100101) 12 bits * 5 occurrences: 60bits
+3 (011000100110) 12 bits * 5 occurrences: 60bits
+1 (011000100111) 12 bits * 6 occurrences: 72bits
+I (011000101) 9 bits * 44 occurrences: 396bits
+E (011000110) 9 bits * 46 occurrences: 414bits
+O (011000111) 9 bits * 48 occurrences: 432bits
+m (011001) 6 bits * 387 occurrences: 2322bits
+, (011010) 6 bits * 395 occurrences: 2370bits
+. (01101100) 8 bits * 98 occurrences: 784bits
+N (011011010) 9 bits * 50 occurrences: 450bits
+q (0110110110) 10 bits * 25 occurrences: 250bits
+Y (0110110111) 10 bits * 26 occurrences: 260bits
+w (0110111) 7 bits * 202 occurrences: 1414bits
+n (0111) 4 bits * 1530 occurrences: 6120bits
+o (1000) 4 bits * 1562 occurrences: 6248bits
+a (1001) 4 bits * 1572 occurrences: 6288bits
+l (10100) 5 bits * 862 occurrences: 4310bits
+S (1010100) 7 bits * 221 occurrences: 1547bits
+v (1010101) 7 bits * 222 occurrences: 1554bits
+u (101011) 6 bits * 475 occurrences: 2850bits
+t (1011) 4 bits * 2071 occurrences: 8284bits
+BS (110) 3 bits * 4137 occurrences: 12411bits
+T (11100000) 8 bits * 113 occurrences: 904bits
+W (1110000100) 10 bits * 27 occurrences: 270bits
+j (1110000101) 10 bits * 27 occurrences: 270bits
+M (111000011) 9 bits * 59 occurrences: 531bits
+F (11100010000) 11 bits * 13 occurrences: 143bits
+G (11100010001) 11 bits * 16 occurrences: 176bits
+V (1110001001) 10 bits * 31 occurrences: 310bits
+U (111000101) 9 bits * 63 occurrences: 567bits
+P (11100011) 8 bits * 129 occurrences: 1032bits
+CR (111001) 6 bits * 524 occurrences: 3144bits
+g (1110100) 7 bits * 261 occurrences: 1827bits
+x (111010100) 9 bits * 65 occurrences: 585bits
+; (111010101) 9 bits * 66 occurrences: 594bits
+L (111010110) 9 bits * 66 occurrences: 594bits
+R (111010111) 9 bits * 69 occurrences: 621bits
+c (111011) 6 bits * 542 occurrences: 3252bits
+y (1111000) 7 bits * 267 occurrences: 1869bits
+p (1111001) 7 bits * 275 occurrences: 1925bits
+f (111101) 6 bits * 589 occurrences: 3534bits
+h (11111) 5 bits * 1197 occurrences: 5985bits
+execution complete
